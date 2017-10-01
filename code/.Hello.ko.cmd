@@ -1,0 +1,1 @@
+cmd_/home/a/Desktop/OS_HW2/code/Hello.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/a/Desktop/OS_HW2/code/Hello.ko /home/a/Desktop/OS_HW2/code/Hello.o /home/a/Desktop/OS_HW2/code/Hello.mod.o
